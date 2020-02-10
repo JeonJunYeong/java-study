@@ -35,5 +35,6 @@
 		<module>chapter03</module>
 		<module>chapter04</module>
 		<module>network</module>
+		<module>java-pratice04</module>
 	</modules>
 </project>
